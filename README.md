@@ -70,16 +70,16 @@ $ labelme
 
 * 戴口罩的人群
 
-![scrapt_crawler/images/戴口罩的人群/12.jpg]()
-![scrapt_crawler/images/戴口罩的人群/14.jpg]()
-![scrapt_crawler/images/戴口罩的人群/16.jpg]()
-![scrapt_crawler/images/戴口罩的人群/19.jpg]()
-![scrapt_crawler/images/戴口罩的人群/22.jpg]()
+![](scrapt_crawler/images/戴口罩的人群/12.jpg)
+![](scrapt_crawler/images/戴口罩的人群/14.jpg)
+![](scrapt_crawler/images/戴口罩的人群/16.jpg)
+![](scrapt_crawler/images/戴口罩的人群/19.jpg)
+![](scrapt_crawler/images/戴口罩的人群/22.jpg)
 
 * 人物图片原图
 
-![scrapt_crawler/images/人物图片原图/11.jpg]()
-![scrapt_crawler/images/人物图片原图/13.jpg]()
-![scrapt_crawler/images/人物图片原图/15.jpg]()
-![scrapt_crawler/images/人物图片原图/19.jpg]()
-![scrapt_crawler/images/人物图片原图/21.jpg]()
+![](scrapt_crawler/images/人物图片原图/11.jpg)
+![](scrapt_crawler/images/人物图片原图/13.jpg)
+![](scrapt_crawler/images/人物图片原图/15.jpg)
+![](scrapt_crawler/images/人物图片原图/19.jpg)
+![](scrapt_crawler/images/人物图片原图/21.jpg)
