@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for scrapt_crawler project
+# Scrapy settings for scrapy_crawler project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -10,13 +10,13 @@
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 import os
 
-BOT_NAME = 'scrapt_crawler'
+BOT_NAME = 'scrapy_crawler'
 
-SPIDER_MODULES = ['scrapt_crawler.spiders']
-NEWSPIDER_MODULE = 'scrapt_crawler.spiders'
+SPIDER_MODULES = ['scrapy_crawler.spiders']
+NEWSPIDER_MODULE = 'scrapy_crawler.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-# USER_AGENT = 'scrapt_crawler (+http://www.yourdomain.com)'
+# USER_AGENT = 'scrapy_crawler (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -47,13 +47,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 # SPIDER_MIDDLEWARES = {
-#    'scrapt_crawler.middlewares.ScrapyImagesSpiderMiddleware': 543,
+#    'scrapy_crawler.middlewares.ScrapyImagesSpiderMiddleware': 543,
 # }
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 # DOWNLOADER_MIDDLEWARES = {
-#    'scrapt_crawler.middlewares.ScrapyImagesDownloaderMiddleware': 543,
+#    'scrapy_crawler.middlewares.ScrapyImagesDownloaderMiddleware': 543,
 # }
 
 # Enable or disable extensions
@@ -65,8 +65,8 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'scrapt_crawler.pipelines.ScrapyImagesPipeline': 300,
-    'scrapt_crawler.pipelines.DownloadImagesPipeline': 1,
+    'scrapy_crawler.pipelines.ScrapyImagesPipeline': 300,
+    'scrapy_crawler.pipelines.DownloadImagesPipeline': 1,
     # 'scrapy.pipelines.images.ImagesPipeline': 1,
 }
 # 配置pipeline，设定需要进行处理的图片路径

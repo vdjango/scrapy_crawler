@@ -1,7 +1,7 @@
 - <b>简体中文</b>
 
 这是一个能让您搜索到的百度图片 进行随意的下载并分类保存到本地的一个项目，可用于深度学习数据集收集、发布和分享, 可配合标柱工具一起使用更加完美。
-这是基于 scrapt框架 开发的一个可用于深度学习数据集收集的项目，您可以自由地在您的服务器上部署它。
+这是基于 scrapy框架 开发的一个可用于深度学习数据集收集的项目，您可以自由地在您的服务器上部署它。
 
 环境要求
 -----------
@@ -15,17 +15,17 @@
 ------------
 如果你想快速运行，不考虑爬取内容时，默认爬取口罩相关内容
 
-> 具体移步 `scrapt_crawler/scrapt_crawler/spiders/painting.py` PaintingSpider.__init__.search_word 部分
+> 具体移步 `scrapy_crawler/scrapy_crawler/spiders/painting.py` PaintingSpider.__init__.search_word 部分
 
 ```bash
-$ git clone git@github.com:vdjango/scrapt_crawler.git
+$ git clone git@github.com:vdjango/scrapy_crawler.git
 $ pip3.6 install -r requeirement.txt
 $ python3.6 main.py
 ```
 
-* 遵循robots原则 `scrapt_crawler/scrapt_crawler/settings.py -> ROBOTSTXT_OBEY`
+* 遵循robots原则 `scrapy_crawler/scrapy_crawler/settings.py -> ROBOTSTXT_OBEY`
 * 可爬取多个分类 search_word 是列表
-* 爬取图片路径位于 `scrapt_crawler/scrapt_crawler/images/[分类]/`
+* 爬取图片路径位于 `scrapy_crawler/scrapy_crawler/images/[分类]/`
 
 
 定义爬取分类
@@ -36,7 +36,7 @@ $ python3.6 main.py
 > https://image.baidu.com/search/index?tn=baiduimage&word=戴口罩的人群
 
 ```bash
-$ vim scrapt_crawler/scrapt_crawler/spiders/painting.py
+$ vim scrapy_crawler/scrapy_crawler/spiders/painting.py
 ...
 class PaintingSpider(scrapy.Spider):
     ...
@@ -70,16 +70,16 @@ $ labelme
 
 * 戴口罩的人群
 
-![](scrapt_crawler/images/戴口罩的人群/12.jpg)
-![](scrapt_crawler/images/戴口罩的人群/14.jpg)
-![](scrapt_crawler/images/戴口罩的人群/16.jpg)
-![](scrapt_crawler/images/戴口罩的人群/19.jpg)
-![](scrapt_crawler/images/戴口罩的人群/22.jpg)
+![](scrapy_crawler/images/戴口罩的人群/12.jpg)
+![](scrapy_crawler/images/戴口罩的人群/14.jpg)
+![](scrapy_crawler/images/戴口罩的人群/16.jpg)
+![](scrapy_crawler/images/戴口罩的人群/19.jpg)
+![](scrapy_crawler/images/戴口罩的人群/22.jpg)
 
 * 人物图片原图
 
-![](scrapt_crawler/images/人物图片原图/11.jpg)
-![](scrapt_crawler/images/人物图片原图/13.jpg)
-![](scrapt_crawler/images/人物图片原图/15.jpg)
-![](scrapt_crawler/images/人物图片原图/19.jpg)
-![](scrapt_crawler/images/人物图片原图/21.jpg)
+![](scrapy_crawler/images/人物图片原图/11.jpg)
+![](scrapy_crawler/images/人物图片原图/13.jpg)
+![](scrapy_crawler/images/人物图片原图/15.jpg)
+![](scrapy_crawler/images/人物图片原图/19.jpg)
+![](scrapy_crawler/images/人物图片原图/21.jpg)

@@ -4,7 +4,7 @@ import re
 
 import scrapy
 
-from scrapt_crawler.items import ScrapyImagesItem
+from scrapy_crawler.items import ScrapyImagesItem
 
 
 class PaintingSpider(scrapy.Spider):
