@@ -63,3 +63,23 @@ $ pip3.6 install labelme
 $ labelme
 ```
 
+
+
+以爬取对部分数据预览
+-----
+
+* 戴口罩的人群
+
+![scrapt/images/戴口罩的人群/12.jpg]()
+![scrapt/images/戴口罩的人群/14.jpg]()
+![scrapt/images/戴口罩的人群/16.jpg]()
+![scrapt/images/戴口罩的人群/19.jpg]()
+![scrapt/images/戴口罩的人群/22.jpg]()
+
+* 人物图片原图
+
+![scrapt/images/人物图片原图/11.jpg]()
+![scrapt/images/人物图片原图/13.jpg]()
+![scrapt/images/人物图片原图/15.jpg]()
+![scrapt/images/人物图片原图/19.jpg]()
+![scrapt/images/人物图片原图/21.jpg]()
