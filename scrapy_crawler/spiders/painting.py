@@ -17,8 +17,8 @@ class PaintingSpider(scrapy.Spider):
     def __init__(self, name=None, **kwargs):
         super(PaintingSpider, self).__init__(name, **kwargs)
         self.search_word = [
-            '戴口罩的人群',
-            '人物图片原图'
+            '课堂趴桌子',
+            '课堂举手'
             # 修改具体爬取的分类（搜索关键词）
         ]
         self.pn = []

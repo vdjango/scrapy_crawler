@@ -1,7 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f05c2861-1631-411f-be33-999f42fb11d3" name="Default Changelist" comment="" />
+    <list default="true" id="f05c2861-1631-411f-be33-999f42fb11d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/153.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/人物图片原图/97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/images/戴口罩的人群/97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy_crawler/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy_crawler/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy_crawler/spiders/painting.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy_crawler/spiders/painting.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +123,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aWJN0sG2Dhy4VAcLSh8wp5slH4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -43,75 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="scrapy_crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <module name="scrapy_crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <module name="scrapy_crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="scrapy_crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scrapy_crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,12 +167,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../scrapy_crawler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../scrapy_crawler/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,66 +225,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="scrapy_crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="scrapy_crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="scrapy_crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <module name="scrapy_crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.main (1)" />
@@ -245,8 +232,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.r" />
       </list>
     </recent_temporary>
@@ -266,15 +253,33 @@
       <workItem from="1587003738220" duration="2620000" />
       <workItem from="1587090463596" duration="4151000" />
       <workItem from="1587353302483" duration="16169000" />
-      <workItem from="1587872121019" duration="5666000" />
+      <workItem from="1587872121019" duration="6288000" />
+      <workItem from="1591328421122" duration="16430000" />
+      <workItem from="1591840922071" duration="596000" />
+      <workItem from="1598413204929" duration="224000" />
+      <workItem from="1598427607312" duration="3985000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/scrapt_crawler$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1587873282046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../scrapt_crawler" />
+    <SUITE FILE_PATH="coverage/scrapt_crawler$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1587880887657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scrapt_crawler$main.coverage" NAME="main Coverage Results" MODIFIED="1598432094316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scrapy_images$r.coverage" NAME="r Coverage Results" MODIFIED="1587366665047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scrapy_images$main.coverage" NAME="main Coverage Results" MODIFIED="1587872510467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
